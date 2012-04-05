@@ -64,14 +64,14 @@ Problem -> Technology -> Knowledge
                                             |
                                             |
                                             |
-                                  ----------+--------------+
-                                  |                        |
-                                  v                        v
-                              Development -----------> Product Concept
-                                                           |
-                                                           |
-                                                           v
-                                                      Technology Dev.
+                               +------------+-----------+
+                               |                        |
+                               v                        v
+                           Development -----------> Product Concept
+                                                        |
+                                                        |
+                                                        v
+                                                   Technology Dev.
 # Products and processes
 
 ## Products
